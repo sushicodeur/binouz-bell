@@ -14,6 +14,8 @@ Le schéma électrique est simple : un module ESP8266 et un servo (MG90s dans mo
 
 Sur ma nodemcu, j'ai branché directement le servo sur gnd, +3.3v, et D4. Ces trois broches étant côte à côte, ça me permet de n'avoir aucun câblage supplémentaire. Et le servo ne se plaint pas d'être alimenté en 3.3v.
 
+![Schematics](img/binouz-bell-schema.png)
+
 ## Modèle 3D
 
 Le modèle 3D (Fusion 360) est téléchargeable à cette adresse : https://a360.co/2EHzeJy
